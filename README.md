@@ -1,4 +1,10 @@
 # SimpleNetworkingPlugin
+※現在は公式のプラグインで出来ます
+詳しくは下記で解説しています
+https://zenn.dev/tamfoi/articles/37d2e819659c19
+
+## 使い方
+https://x.com/tamfoi/status/1551184162517700609/photo/1
 
 ## 参考 URL
 
